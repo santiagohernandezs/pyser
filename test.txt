@@ -1,0 +1,26 @@
+Transaction Id:
+XXXXX
+Service:
+English <> Spanish
+Create Date:
+XXXXXX
+Accept Date:
+XXXXXX
+End Date:
+XXXXX
+Total Time:
+17 Minutes 56 Seconds 
+
+
+Transaction Id:
+XXXXX
+Service:
+English <> Spanish
+Create Date:
+XXXXXX
+Accept Date:
+XXXXXX
+End Date:
+XXXXX
+Total Time:
+1 Hour 4 Minutes 23 Seconds
